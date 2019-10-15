@@ -22,7 +22,7 @@ CRUD operations.
 1. View all entries
 2. Search entries
 3. Delete entries
-4. Add entries
+4. Add entriesjddjdi
 5. Update selected
 6. Close
 
